@@ -16,10 +16,10 @@ Uma aplicação móvel desenvolvida em React Native para gerenciamento de cartõ
 │       ├── EdicaoCartaoScreen.js    # Tela de edição de cartões
 │       ├── ListaCartaoScreen.js     # Tela principal de listagem
 │       ├── LoginScreen.js           # Tela de autenticação
-│       ├── RegistroScreen.js        # Tela de registro
+│       ├── RegistroScreen.js        # Tela de Registro
 │       └── TarefasVencimentoProximoScreen.js  # Tela de tarefas próximas
-├── App.js                 # Componente principal e navegação
-├── app.json              # Configuração do Expo
+├── App.js                 # Componente Pai
+├── app.json             
 ├── babel.config.js       # Configuração do Babel
 └── package.json          # Dependências do projeto
 ```
