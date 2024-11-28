@@ -2,6 +2,10 @@
 
 Uma aplicação móvel desenvolvida em React Native para gerenciamento de cartões de estudo e tarefas com integração Firebase.
 
+## Tecnologias Usadas:
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+
 ## Estrutura do Projeto
 
 ```
